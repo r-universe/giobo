@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TR8"]
+	path = TR8
+	url = https://github.com/giobo/tr8
+	shallow = true
+	registered = true
